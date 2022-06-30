@@ -69,6 +69,7 @@
 > json-server --watch --port 3000 --host 127.0.0.1 db.js
 > //这里就是把后面的模拟数据文件由原来的db.json变成db.js
 > ```
+> 启动服务后就可以访问到模拟数据了
 
 ```
 tips：json-server可以进行增删改查等一系列接口操作，可以配合postman测试，详情请看官网。
