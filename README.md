@@ -24,7 +24,7 @@
 >
 > 此时在控制台便生成接口链接，可以直接访问数据。
 
-> 配合[mockjs]([Mock.js (mockjs.com)](http://mockjs.com/examples.html))使用
+> 配合[Mock.js (mockjs.com)](http://mockjs.com/examples.html)使用
 >
 > ```
 > mockjs是一个用来随机生成前端中文数据的，详情请参考官网
